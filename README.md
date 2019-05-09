@@ -4,5 +4,5 @@ Lifelong Planning A* (LPA*) is an incremental version of A*, which can adapt to 
 
 A* Algorithm taken from :- https://www.geeksforgeeks.org/a-search-algorithm/
 Contribution :- 
-\nNirav Ramani :- https://github.com/niravramani72 
-\nHarsh Suvagiya :- https://github.com/HarshSuvagiya
+Nirav Ramani :- https://github.com/niravramani72 
+Harsh Suvagiya :- https://github.com/HarshSuvagiya
